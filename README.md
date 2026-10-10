@@ -1,6 +1,6 @@
 # Ondazul
 
-🎵 Player de música em Python + Flet para PC e Android. Playlists persistentes, favoritos, renomear músicas, aleatório e repetir. Tema azul/preto degradê
+­čÄÁ Player de m├║sica em Python + Flet para PC e Android. Playlists persistentes, favoritos, renomear m├║sicas, aleat├│rio e repetir. Tema azul/preto degrad├¬.
 
 ## Acesso rapido
 
@@ -33,7 +33,7 @@
 
 ## Sobre
 
-Ondazul - 🎵 Player de música em Python + Flet para PC e Android. Playlists persistentes, favoritos, renomear músicas, aleatório e repetir. Tema azul/preto degradê
+Ondazul - ­čÄÁ Player de m├║sica em Python + Flet para PC e Android. Playlists persistentes, favoritos, renomear m├║sicas, aleat├│rio e repetir. Tema azul/preto degrad├¬.
 
 ---
 
